@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  KeyCardBackView.swift
 //  SwiftUILearning
 //
 //  Created by xiang on 3/23/20.
@@ -8,14 +8,14 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct KeyCardBackView: View {
     var body: some View {
-        Text("Hello, World!")
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct KeyCardBackView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        KeyCardBackView()
     }
 }
