@@ -11,8 +11,8 @@ import SwiftUI
 struct WebSplitApp: App {
     var body: some Scene {
         WindowGroup {
-            ChallengeDay()
-//            ContentView()
+//            ChallengeDay()
+            ContentView()
         }
     }
 }
